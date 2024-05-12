@@ -33,7 +33,7 @@ Import Database file:
 
 Now you can try the site locally on your browser.
 
-Go
+Go to
 
     http://localhost/(project-name)/
 
